@@ -87,3 +87,7 @@ C:\Program Files\RStudio\resources\app\www\rstudio\7EA4A6E4E8493375F0C7C283A8C92
 ## 六、未来计划功能
 
 未来无进一步计划，坐等原厂自己启动国际化计划，以实现原厂级的中文版。
+
+## 七、更新说明
+
+经测试，部分情况下最新版翻译"7EA4A6E4E8493375F0C7C283A8C92A12.cache.js"文件可能导致RStudio启动异常，此时可考虑使用旧版的"7EA4A6E4E8493375F0C7C283A8C92A12.cachechs-菜单基本翻译完成"文件进行替换，或可正常启动。造成无法启动的原因后续正在调查中。
