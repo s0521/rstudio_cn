@@ -10,3 +10,5 @@
 本简体中文翻译适用于RStudio的"2023.03.1 Build 446"版本，此版本的下载链接为：https://download1.rstudio.org/electron/windows/RStudio-2023.03.1-446.exe
 简体中文翻译文件的github代码仓库：https://github.com/s0521/rstudio_cn
 翻译日期：2023年10月1日
+请勿将翻译补丁投入到生产环境或者商业使用，因为此翻译可能导致RStudio无法正常打开。
+部分情况下可能会导致RStudio无法正常打开使用，具体原因未知，如有发生，请移除此翻译相关文件，并将被替换掉的文件回复回来，即可恢复RStudio的正常使用。
