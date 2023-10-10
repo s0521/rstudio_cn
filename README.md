@@ -11,32 +11,32 @@
 - 主界面
 
 
-![Syntax highlighting](https://github.com/s0521/nonmem_cn/raw/master/01主界面.png)
+![Syntax highlighting](https://github.com/s0521/rstudio_cn/raw/master/01主界面.png)
 
 - 文件菜单
 
 
-![Completion](https://github.com/s0521/nonmem_cn/raw/master/02文件菜单.png)
+![Completion](https://github.com/s0521/rstudio_cn/raw/master/02文件菜单.png)
 
 - 视图菜单
 
 
-![Code block folding](https://github.com/s0521/nonmem_cn/raw/master/03视图菜单.png)
+![Code block folding](https://github.com/s0521/rstudio_cn/raw/master/03视图菜单.png)
 
 - 文件更多
 
 
-![Code block folding](https://github.com/s0521/nonmem_cn/raw/master/04文件更多.png)
+![Code block folding](https://github.com/s0521/rstudio_cn/raw/master/04文件更多.png)
 
 - 右键菜单
 
 
-![Code block folding](https://github.com/s0521/nonmem_cn/raw/master/05右键菜单.png)
+![Code block folding](https://github.com/s0521/rstudio_cn/raw/master/05右键菜单.png)
 
 - 代码编辑器与R添加包
 
 
-![Code block folding](https://github.com/s0521/nonmem_cn/raw/master/06代码编辑器与R添加包.png)
+![Code block folding](https://github.com/s0521/rstudio_cn/raw/master/06代码编辑器与R添加包.png)
 
 ## 二、简介
 
