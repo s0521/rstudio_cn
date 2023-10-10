@@ -1,0 +1,11 @@
+1.请确保已在电脑上完成了RStudio软件本身，并且已启动和使用过RStudio，且可以正常启动与使用。
+2.请确认已经将RStudio关闭。
+3.导航至RStudio的安装目录，下文假设你使用的是默认安装路径即C:\Program Files\RStudio
+4.导航至C:\Program Files\RStudio\resources\app\www\rstudio路径下，将此路径下名为"7EA4A6E4E8493375F0C7C283A8C92A12.cache.js"重命名"001.cache.js"，
+5.将本翻译文件下名为"7EA4A6E4E8493375F0C7C283A8C92A12.cache.js"文件复制到C:\Program Files\RStudio\resources\app\www\rstudio路径下
+6.导航至C:\Program Files\RStudio\resources\app\.webpack\main路径下，将此路径下名为"7EA4A6E4E8493375F0C7C283A8C92A12.cache.js"重命名"002.js"，
+7.将本翻译文件下名为"index.js"文件复制到C:\Program Files\RStudio\resources\app\.webpack\main路径下
+8.启动RStudio，观察是否已经成功使用了翻译后的简体用户界面。
+
+本简体中文翻译适用于RStudio的"2023.03.1 Build 446"版本，此版本的下载链接为：https://download1.rstudio.org/electron/windows/RStudio-2023.03.1-446.exe
+简体中文翻译文件的github代码仓库：https://github.com/s0521/rstudio_cn
